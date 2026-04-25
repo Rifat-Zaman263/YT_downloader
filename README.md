@@ -1,5 +1,5 @@
 # YT_downloader
-This is e extension that you have to add in your Chrome/Brave browser to download YouTube video
+This is an extension that you have to add in your Chrome/Brave browser to download YouTube video
 
 How to use 
 1) Download the "tubly_downloader_v1.5.3.zip" file
