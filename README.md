@@ -1,4 +1,4 @@
-# YT_downloder
+# YT_downloader
 This is e extension that you have to add in your Chrome/Brave browser to download YouTube video
 
 How to use 
